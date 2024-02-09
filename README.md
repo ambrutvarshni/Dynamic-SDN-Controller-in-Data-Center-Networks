@@ -7,10 +7,16 @@ Key Features:
 🚀 Dynamic Assignment: Seamlessly allocate resources and optimize network performance based on real-time demand, ensuring efficient utilization.
 🌐 Web-based Interface: Monitor and control your data center network effortlessly through an intuitive HTML-based web interface.
 📊 MySQL Integration: Store and manage critical network data in a robust MySQL database for easy retrieval, analysis, and reporting.
+
+
+
+
 Tech Stack:
 🐍 Python: Leveraging the power of Python for efficient and scalable network control and automation.
 🗃️ MySQL: A reliable and robust relational database for storing and retrieving network configuration and performance data.
 🌐 HTML: Crafting a user-friendly web interface for easy interaction and monitoring.
+
+
 Getting Started:
 Clone the repository to your local machine.
 Install the required dependencies using pip install -r requirements.txt.
